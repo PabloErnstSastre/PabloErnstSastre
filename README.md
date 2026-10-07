@@ -5,7 +5,7 @@
   Hi, I'm Pablo Ernst Sastre
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A291B&center=true&vCenter=true&width=435&lines=Love+2+learn+new+stuffs...%CE%A9;Active+Learner+%2F+Researcher+%E3%8A%AB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A291B&hcenter=true&vCenter=true&width=435&lines=Love+2+learn+new+stuffs...%CE%A9;Active+Learner+%2F+Researcher+%E3%8A%AB" alt="Typing SVG" /></a>
 <!--
 **PabloErnstSastre/PabloErnstSastre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
