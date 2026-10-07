@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF0000,100:000000&reversal=true" />
 </div>
 <h3 align="center">
   Hi, I'm Pablo Ernst Sastre
