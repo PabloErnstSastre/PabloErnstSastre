@@ -13,6 +13,10 @@
 <!--
 **PabloErnstSastre/PabloErnstSastre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!-- to print thick horizontal line -->
+---
+
+```python
 class Pablo(Ernst):
    """Big Data & IA Master´s student and self-taught programmer that love to learn about Computer-Science and Technologies"""
    
@@ -59,3 +63,7 @@ class Pablo(Ernst):
    def __repr__(self):
       """"""
       return f"{self.name} an {self.age} y.o. self-taught programmer and {self.role}"
+
+```
+<!-- to print thick horizontal line -->
+---
