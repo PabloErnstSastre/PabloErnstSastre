@@ -13,14 +13,49 @@
 <!--
 **PabloErnstSastre/PabloErnstSastre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+class Pablo(Ernst):
+   """Big Data & IA Master´s student and self-taught programmer that love to learn about Computer-Science and Technologies"""
+   
+   def __init__(self):
+     
+      self.name = "Pablo Ernst Sastre"
+      self.age = 32
+      self.role = "Mechanical Engineer"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      self.TOOLS = {
+          "ScriptingLanguages" : ("Python", "R", "VBA", "Matlab"),
+          "MarkupLanguages" : ("Html", "Markdown"),
+          "Editors" : ("VsCode", "Antigravity"),
+          "Platform" : ("LINUX", "WINDOWS"),
+          "OtherTools" : ("SolidWorks", "AutoCAD", "Git", "LabVIEW", "Photoshop")
+         }
+
+      self.INTERESTS = [
+         "Computer Sciences",
+         "Electrical & Electronic Engineering",
+         "Finance, economics & investment",
+         "Universe"
+         ]
+
+   def use(self, tool):
+      """You can use one of my tools or use bunch of them."""
+      return self.TOOLS[tool]
+
+
+   def work(self):
+      """"""
+      while not WORK_DONE:
+         # keep work.
+         self.use(tool)
+
+      return WORK_DONE
+
+
+   def __len__(self):
+      """Fun Fact"""
+      return 181 # cm
+
+
+   def __repr__(self):
+      """"""
+      return f"{self.name} an {self.age} y.o. self-taught programmer and {self.role}"
