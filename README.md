@@ -68,9 +68,8 @@ class Pablo(Ernst):
 <!-- to print thick horizontal line -->
 ---
 ------
-<h3 align="left">Languages and Tools:</h3>
-<table>
-<td width="50%" align="left">
+<h3 align="center">Languages and Tools:</h3>
+<table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=python,r,maven,anaconda"/></td>
@@ -100,14 +99,23 @@ class Pablo(Ernst):
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
     </tr>
 </td>
-<td width="50%" align="right">
-
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
 </tr>
   
 </table>
+<p align="center">
+  <img alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</p>
 
 ------
+
+<!-- Current Stats card -->
+</br>
+<h2>Current Stats</h2>
+<div>
+  <a href="https://github.com/PabloErnstSastre">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloErnstSastre&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0"/>
+  </a>
+  <a href="https://github.com/PabloErnstSastre">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PabloErnstSastre&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false"/>
+  </a>
+</div>
