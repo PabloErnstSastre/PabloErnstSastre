@@ -119,3 +119,26 @@ class Pablo(Ernst):
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PabloErnstSastre&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false"/>
   </a>
 </div>
+
+<!-- Top Projects List -->
+<br>
+<h2>Top Projects</h2>
+<p>
+  <a href="https://github.com/PabloErnstSastre/Spectrum-viewer-SDFASCII-.DAT-">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=PabloErnstSastre&repo=Spectrum-viewer-SDFASCII-.DAT-&theme=dark" alt="Spectrum Viewer">
+  </a>
+</p>
+<p align="right">
+  <a href="https://github.com/PabloErnstSastre?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+</p>
+
+<!-- Social -->
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://es.linkedin.com/in/pablo-ernst-sastre-004150196" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="PabloErnstSastre" height="50" width="50" /></a>
+<a href="https://www.instagram.com/pablo_3rnstsastre/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Pablo_3rnstsastre" height="50" width="50" /></a>
+</p>
+
+---
