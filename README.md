@@ -70,6 +70,7 @@ class Pablo(Ernst):
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
+<td width="50%" align="left">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=python,r,maven,anaconda"/></td>
@@ -98,6 +99,15 @@ class Pablo(Ernst):
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
     </tr>
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+  
 </table>
 
 ------
