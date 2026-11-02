@@ -131,7 +131,30 @@ class Pablo(Ernst):
 <p align="right">
   <a href="https://github.com/PabloErnstSastre?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
 </p>
-
+<p>
+  <a href="https://github.com/PabloErnstSastre/Bitcoin-volatility.git">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=PabloErnstSastre&repo=Bitcoin-volatility-&theme=dark" alt="BTC Volatility">
+  </a>
+</p>
+<p align="right">
+  <a href="https://github.com/PabloErnstSastre?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+</p>
+<p>
+  <a href="https://github.com/PabloErnstSastre/Image-classifier.git">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=PabloErnstSastre&repo=Image-classifier-&theme=dark" alt="Image Classifier">
+  </a>
+</p>
+<p align="right">
+  <a href="https://github.com/PabloErnstSastre?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+</p>
+<p>
+  <a href="https://github.com/PabloErnstSastre/Study-chatbot.git">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=PabloErnstSastre&repo=Study-chatbot-&theme=dark" alt="Study Chatbot">
+  </a>
+</p>
+<p align="right">
+  <a href="https://github.com/PabloErnstSastre?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+</p>
 <!-- Social -->
 ---
 
